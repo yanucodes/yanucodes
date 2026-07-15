@@ -2,7 +2,7 @@
 
 Career changer: **Astrophysics → Software Development**
 
-I spent years writing code to reduce telescope data, analyze observations, and create interactive plots. Now I'm building iOS and Web apps that I always wanted to have.
+I spent years writing code to reduce telescope data, analyze observations, and create interactive plots. Now I'm looking for opportunities to apply those skills to projects with real, practical value for people.
 
 ## 🚀 Featured projects
 
