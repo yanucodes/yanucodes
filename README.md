@@ -10,6 +10,7 @@ I spent years writing code to reduce telescope data, analyze observations, and c
 - **[HomeShip-Web](https://github.com/yanucodes/HomeShip-Web)** — Web client for HomeShip. `Flask` · `Jinja2`
 - **[job-search-tool](https://github.com/yanucodes/job-search-tool)** — Job-application tracker that surfaces each new posting once, moves it through a pipeline, and exports the history to PDF. Pluggable job boards (Arbeitsagentur API). `Flask` · `SQL`
 - **[Knitty](https://github.com/yanucodes/Knitty)** — iOS app to count rows and keep per-row notes while knitting without a pattern. `Swift` · `SwiftUI` · `SwiftData`
+- **Knitty-Vision** `WIP` — extension for Knitty: counts knitting stitches from photos. Current accuracy: 75% exact, 95% within ±1, MAE 0.35. Source private during active development. `Python` · `OpenCV` · `scipy`
 - **[obs_sofi](https://github.com/yanucodes/obs_sofi)** — Python data-reduction package for the SOFI camera, integrated into the LSST (Vera Rubin Observatory) software stack. *(MSc thesis)*
 
 ## 🌱 I’m currently learning:
