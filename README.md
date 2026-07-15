@@ -7,7 +7,7 @@ I spent years writing code to reduce telescope data, analyze observations, and c
 ## 🚀 Featured projects
 
 - **[HomeShip](https://github.com/yanucodes/HomeShip)** — Gamified household-upkeep backend: your home is a spaceship and neglected chores raise yellow/red alerts that slow it down. REST API with JWT auth, daily scheduled jobs and a pytest suite. `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic`
-- **[HomeShip-Web](https://github.com/yanucodes/HomeShip-Web)** — Web client for HomeShip. `Flask` · `Jinja2`
+- **[HomeShip-Web](https://github.com/yanucodes/HomeShip-Web)** `WIP` — Web client for HomeShip. `Flask` · `Jinja2`
 - **[job-search-tool](https://github.com/yanucodes/job-search-tool)** — Job-application tracker that surfaces each new posting once, moves it through a pipeline, and exports the history to PDF. Pluggable job boards (Arbeitsagentur API). `Flask` · `SQL`
 - **[Knitty](https://github.com/yanucodes/Knitty)** — iOS app to count rows and keep per-row notes while knitting without a pattern. `Swift` · `SwiftUI` · `SwiftData`
 - **Knitty-Vision** `WIP` — extension for Knitty: counts knitting stitches from photos. Current accuracy: 75% exact, 95% within ±1, MAE 0.35. Source private during active development. `Python` · `OpenCV` · `scipy`
